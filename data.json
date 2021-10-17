@@ -1,0 +1,72 @@
+[
+    {
+        "key": "266",
+        "name": "Aatrox",
+        "title": "a Espada Darkin",
+        "tags": ["Fighter", "Tank"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Aatrox_0.jpg"
+    },
+    {
+        "key": "103",
+        "name": "Ahri",
+        "title": "a Raposa de Nove Caudas",
+        "tags": ["Mage", "Assassin"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Ahri_0.jpg"
+    },
+    {
+        "key": "84",
+        "name": "Akali",
+        "title": "a Assassina Renegada",
+        "tags": ["Assassin"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Akali_0.jpg"
+    },
+    {
+        "key": "12",
+        "name": "Akshan",
+        "title": "o Minotauro",
+        "tags": ["Tank", "Support"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Akshan_0.jpg"
+    },
+    {
+        "key": "32",
+        "name": "Amumu",
+        "title": "a Múmia Triste",
+        "tags": ["Tank", "Mage"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Amumu_0.jpg"
+    },
+    {
+        "key": "34",
+        "name": "Anivia",
+        "title": "a Criofênix",
+        "tags": ["Mage", "Support"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Anivia_0.jpg"
+    },
+    {
+        "key": "1",
+        "name": "Annie",
+        "title": "a Criança Sombria",
+        "tags": ["Mage"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Annie_0.jpg"
+    },
+    {
+        "key": "523",
+        "name": "Aphelios",
+        "title": "a Arma dos Devotos",
+        "tags": ["Marksman"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Aphelios_0.jpg"
+    },
+    {
+        "key": "22",
+        "name": "Ashe",
+        "title": "a Arqueira do Gelo",
+        "tags": ["Marksman", "Support"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Ashe_0.jpg"
+    },
+    {
+        "key": "136",
+        "name": "Aurelion Sol",
+        "title": "o Forjador de Estrelas",
+        "tags": ["Mage"],
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/AurelionSol_0.jpg"
+    }
+]
